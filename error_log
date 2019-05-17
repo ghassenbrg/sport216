@@ -1,0 +1,25 @@
+[24-Sep-2018 02:24:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[24-Sep-2018 02:24:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[24-Sep-2018 02:24:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[24-Sep-2018 02:24:23 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[24-Sep-2018 02:24:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[24-Sep-2018 02:24:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[24-Sep-2018 02:24:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[24-Sep-2018 02:24:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[24-Sep-2018 02:24:25 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[24-Sep-2018 02:24:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home2/sporttn/public_html/ar/index.php on line 7
+[25-Sep-2018 16:59:10 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sporttn/public_html/ar/article.php on line 64
+[25-Sep-2018 16:59:13 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sporttn/public_html/ar/article.php on line 64
+[25-Sep-2018 16:59:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sporttn/public_html/ar/article.php on line 64
+[25-Sep-2018 16:59:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sporttn/public_html/ar/article.php on line 64
+[25-Sep-2018 16:59:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home2/sporttn/public_html/ar/article.php on line 64
+[26-Sep-2018 17:36:05 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63
+[26-Sep-2018 17:36:06 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63
+[26-Sep-2018 17:36:24 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63
+[26-Sep-2018 17:36:26 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63
+[26-Sep-2018 17:36:26 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63
+[26-Sep-2018 17:37:05 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63
+[26-Sep-2018 17:37:13 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63
+[26-Sep-2018 17:38:02 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63
+[26-Sep-2018 17:38:10 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63
+[26-Sep-2018 17:38:10 UTC] PHP Fatal error:  Call to undefined function date_diff_ar() in /home2/sporttn/public_html/ar/pages/latest-articles.php on line 63

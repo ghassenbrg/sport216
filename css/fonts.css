@@ -1,0 +1,10 @@
+  @import url("https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css");
+
+@font-face {
+    font-family: 'Shoroq';
+    src: url("../css/fonts/Shoroq-Font.ttf");
+}
+@font-face {
+    font-family: 'HelveticaNeue';
+    src: url("../css/fonts/HelveticaNeue.woff");
+}
